@@ -1,11 +1,7 @@
 
 /* Your CSS Code here. */
 .item{
-   display: inline-block;
-   width: 100px;
-   height: 100px;
-   background-color: blue;
-   color: white;
+   display: inline;
 }
 
 .holder{
